@@ -1,1 +1,1 @@
-# biflow_ontology
+# Biflow ontology
