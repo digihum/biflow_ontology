@@ -7,6 +7,9 @@
    <!ENTITY dc     "http://purl.org/dc/elements/1.1/" >
    <!ENTITY foaf   "http://xmlns.com/foaf/0.1/" >
    <!ENTITY owl    "http://www.w3.org/2002/07/owl#" >
+   <!ENTITY bibma   "https://w3id.org/bibma/" >
+   <!ENTITY frbroo  "http://erlangen-crm.org/efrbroo/" >
+   <!ENTITY cidoc   "http://erlangen-crm.org/170309/" >
 ]>
 
 <rdf:RDF
