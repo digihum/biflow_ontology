@@ -134,7 +134,7 @@
     <rdf:type rdf:resource="&rdfs;Class" />
     <rdf:type rdf:resource="&owl;Class" />
     <owl:equivalentClass>
-      <owl:Class rdf:about="&frbr;Person" />
+      <owl:Class rdf:about="&frbroo;Person" />
     </owl:equivalentClass>
     <owl:equivalentClass>
       <owl:Class rdf:about="zhttp://erlangen-crm.org/efrbroo/F10_Person" />
