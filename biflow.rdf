@@ -38,7 +38,7 @@
 
 <rdf:Description rdf:about="&biflow;Bibliography">
   <rdfs:label xml:lang="en">Bibliography</rdfs:label>
-  <rdfs:label xml:lang="it">Bibliografia</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Bibliografia</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -46,7 +46,7 @@
 
 <rdf:Description rdf:about="&biflow;CheckStatus">
   <rdfs:label xml:lang="en">CheckStatus</rdfs:label>
-  <rdfs:label xml:lang="it">StatoVerifica</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">StatoVerifica</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -54,7 +54,7 @@
 
 <rdf:Description rdf:about="&biflow;CodeBibl">
   <rdfs:label xml:lang="en">CodeBibl</rdfs:label>
-  <rdfs:label xml:lang="it">CodiceBibliografia</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">CodiceBibliografia</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -62,7 +62,7 @@
 
 <rdf:Description rdf:about="&biflow;Editor">
   <rdfs:label xml:lang="en">Editor</rdfs:label>
-  <rdfs:label xml:lang="it">Editore</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Editore</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -70,7 +70,7 @@
 
 <rdf:Description rdf:about="&biflow;Expression">
   <rdfs:label xml:lang="en">Expression</rdfs:label>
-  <rdfs:label xml:lang="it">Espressione</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Espressione</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -78,7 +78,7 @@
 
 <rdf:Description rdf:about="&biflow;ExpressionAttribution">
   <rdfs:label xml:lang="en">ExpressionAttribution</rdfs:label>
-  <rdfs:label xml:lang="it">AttribuzioneEspressione</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">AttribuzioneEspressione</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -86,7 +86,7 @@
 
 <rdf:Description rdf:about="&biflow;Language">
   <rdfs:label xml:lang="en">Language</rdfs:label>
-  <rdfs:label xml:lang="it">Lingua</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Lingua</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -94,7 +94,7 @@
 
 <rdf:Description rdf:about="&biflow;Library">
   <rdfs:label xml:lang="en">Library</rdfs:label>
-  <rdfs:label xml:lang="it">Biblioteca</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Biblioteca</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -102,7 +102,7 @@
 
 <rdf:Description rdf:about="&biflow;Localisation">
   <rdfs:label xml:lang="en">Localisation</rdfs:label>
-  <rdfs:label xml:lang="it">Localizzazione</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Localizzazione</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -110,7 +110,7 @@
 
 <rdf:Description rdf:about="&biflow;Manuscript">
   <rdfs:label xml:lang="en">Manuscript</rdfs:label>
-  <rdfs:label xml:lang="it">Manoscritto</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Manoscritto</rdfs:label>
   <rdfs:comment>The manuscript is the document made in the Middle Ages for texts.</rdfs:comment>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
@@ -119,7 +119,7 @@
 
 <rdf:Description rdf:about="&biflow;Material">
   <rdfs:label xml:lang="en">Material</rdfs:label>
-  <rdfs:label xml:lang="it">Materiale</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Materiale</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -127,7 +127,7 @@
 
 <rdf:Description rdf:about="&biflow;Nickname">
   <rdfs:label xml:lang="en">Nickname</rdfs:label>
-  <rdfs:label xml:lang="it">Soprannome</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Soprannome</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -135,7 +135,7 @@
 
 <rdf:Description rdf:about="&biflow;Person">
   <rdfs:label xml:lang="en">Person</rdfs:label>
-  <rdfs:label xml:lang="it">Persona</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Persona</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -149,7 +149,7 @@
 
 <rdf:Description rdf:about="&biflow;TextualTypology">
   <rdfs:label xml:lang="en">TextualTypology</rdfs:label>
-  <rdfs:label xml:lang="it">TipologiaTestuale</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">TipologiaTestuale</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -157,7 +157,7 @@
 
 <rdf:Description rdf:about="&biflow;Work">
   <rdfs:label xml:lang="en">Work</rdfs:label>
-  <rdfs:label xml:lang="it">Opera</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">Opera</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -165,7 +165,7 @@
 
 <rdf:Description rdf:about="&biflow;WorkAttribution">
   <rdfs:label xml:lang="en">WorkAttribution</rdfs:label>
-  <rdfs:label xml:lang="it">AttribuzioneOpera</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">AttribuzioneOpera</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -173,7 +173,7 @@
 
 <rdf:Description rdf:about="&biflow;WorkBibliography">
   <rdfs:label xml:lang="en">WorkBibliography</rdfs:label>
-  <rdfs:label xml:lang="it">BibliografiaOpera</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">BibliografiaOpera</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -181,7 +181,7 @@
 
 <rdf:Description rdf:about="&biflow;WorkGenre">
   <rdfs:label xml:lang="en">WorkGenre</rdfs:label>
-  <rdfs:label xml:lang="it">GenereOpera</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">GenereOpera</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Class" />
   <rdf:type rdf:resource="&owl;Class" />
@@ -189,7 +189,7 @@
 
 <rdf:Description rdf:about="&biflow;works">
   <rdfs:label xml:lang="en">works</rdfs:label>
-  <rdfs:label xml:lang="it">opere</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">opere</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -202,7 +202,7 @@
 
 <rdf:Description rdf:about="&biflow;author">
   <rdfs:label xml:lang="en">author</rdfs:label>
-  <rdfs:label xml:lang="it">autore</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">autore</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -213,7 +213,7 @@
 
 <rdf:Description rdf:about="&biflow;title">
   <rdfs:label xml:lang="en">title</rdfs:label>
-  <rdfs:label xml:lang="it">titolo</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">titolo</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -224,7 +224,7 @@
 
 <rdf:Description rdf:about="&biflow;chapter">
   <rdfs:label xml:lang="en">chapter</rdfs:label>
-  <rdfs:label xml:lang="it">capitolo</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">capitolo</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -234,7 +234,7 @@
 
 <rdf:Description rdf:about="&biflow;editor">
   <rdfs:label xml:lang="en">editor</rdfs:label>
-  <rdfs:label xml:lang="it">editore</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">editore</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -246,7 +246,7 @@
 
 <rdf:Description rdf:about="&biflow;volume">
   <rdfs:label>volume</rdfs:label>
-  <rdfs:label xml:lang="it">volume</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">volume</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -256,7 +256,7 @@
 
 <rdf:Description rdf:about="&biflow;volumeNumber">
   <rdfs:label>volumeNumber</rdfs:label>
-  <rdfs:label xml:lang="it">numeroVolume</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">numeroVolume</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -266,7 +266,7 @@
 
 <rdf:Description rdf:about="&biflow;place">
   <rdfs:label>place</rdfs:label>
-  <rdfs:label xml:lang="it">luogo</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">luogo</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -277,7 +277,7 @@
 
 <rdf:Description rdf:about="&biflow;date">
   <rdfs:label>date</rdfs:label>
-  <rdfs:label xml:lang="it">data</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">data</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -290,7 +290,7 @@
 
 <rdf:Description rdf:about="&biflow;publisher">
   <rdfs:label>publisher</rdfs:label>
-  <rdfs:label xml:lang="it">editore</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">editore</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -300,7 +300,7 @@
 
 <rdf:Description rdf:about="&biflow;journal">
   <rdfs:label>journal</rdfs:label>
-  <rdfs:label xml:lang="it">rivista</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">rivista</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -310,7 +310,7 @@
 
 <rdf:Description rdf:about="&biflow;codeBibl">
   <rdfs:label>codeBibl</rdfs:label>
-  <rdfs:label xml:lang="it">codiceBiblioteca</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">codiceBiblioteca</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -321,7 +321,7 @@
 
 <rdf:Description rdf:about="&biflow;journalNumber">
   <rdfs:label>journalNumber</rdfs:label>
-  <rdfs:label xml:lang="it">numeroRivista</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">numeroRivista</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -331,7 +331,7 @@
 
 <rdf:Description rdf:about="&biflow;pageNumber">
   <rdfs:label>pageNumber</rdfs:label>
-  <rdfs:label xml:lang="it">numeroPagina</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">numeroPagina</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -341,7 +341,7 @@
 
 <rdf:Description rdf:about="&biflow;url">
   <rdfs:label>url</rdfs:label>
-  <rdfs:label xml:lang="it">URL</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">URL</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -351,7 +351,7 @@
 
 <rdf:Description rdf:about="&biflow;checkStatus">
   <rdfs:label>checkStatus</rdfs:label>
-  <rdfs:label xml:lang="it">statoControllo</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">statoControllo</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -362,7 +362,7 @@
 
 <rdf:Description rdf:about="&biflow;manuscripts">
   <rdfs:label>manuscripts</rdfs:label>
-  <rdfs:label xml:lang="it">manoscritti</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">manoscritti</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -374,7 +374,7 @@
 
 <rdf:Description rdf:about="&biflow;bibliographies">
   <rdfs:label>bibliographies</rdfs:label>
-  <rdfs:label xml:lang="it">bibliografie</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">bibliografie</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -385,7 +385,7 @@
 
 <rdf:Description rdf:about="&biflow;code">
   <rdfs:label>code</rdfs:label>
-  <rdfs:label xml:lang="it">codice</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">codice</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -396,7 +396,7 @@
 
 <rdf:Description rdf:about="&biflow;work">
   <rdfs:label>work</rdfs:label>
-  <rdfs:label xml:lang="it">opera</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">opera</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -409,7 +409,7 @@
 
 <rdf:Description rdf:about="&biflow;translator">
   <rdfs:label>translator</rdfs:label>
-  <rdfs:label xml:lang="it">traduttore</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">traduttore</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -419,7 +419,7 @@
 
 <rdf:Description rdf:about="&biflow;attributions">
   <rdfs:label>attributions</rdfs:label>
-  <rdfs:label xml:lang="it">attribuzioni</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">attribuzioni</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -430,7 +430,7 @@
 
 <rdf:Description rdf:about="&biflow;incipit">
   <rdfs:label>incipit</rdfs:label>
-  <rdfs:label xml:lang="it">incipit</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">incipit</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -440,7 +440,7 @@
 
 <rdf:Description rdf:about="&biflow;explicit">
   <rdfs:label>explicit</rdfs:label>
-  <rdfs:label xml:lang="it">explicit</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">explicit</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -450,7 +450,7 @@
 
 <rdf:Description rdf:about="&biflow;textualHistory">
   <rdfs:label>textualHistory</rdfs:label>
-  <rdfs:label xml:lang="it">storiaTestuale</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">storiaTestuale</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -460,7 +460,7 @@
 
 <rdf:Description rdf:about="&biflow;manuscriptTradition">
   <rdfs:label>manuscriptTradition</rdfs:label>
-  <rdfs:label xml:lang="it">tradizioneManoscritta</rdfs:label> <!-- Italian translation -->
+  <rdfs:label xml:lang="it">tradizioneManoscritta</rdfs:label>
   <rdfs:isDefinedBy rdf:resource="&biflow;" />
   <rdf:type rdf:resource="&rdfs;Property" />
   <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
@@ -468,436 +468,330 @@
   <rdfs:domain rdf:resource="&biflow;Expression" />
 </rdf:Description>
 
+<rdf:Description rdf:about="&biflow;derivedFrom">
+  <rdfs:label xml:lang="en">derivedFrom</rdfs:label>
+  <rdfs:label xml:lang="it">derivaDa</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Expression" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;derivedFrom">
-    <rdfs:label xml:lang="en">derivedFrom</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Expression" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;derivedExpressions">
+  <rdfs:label xml:lang="en">derivedExpressions</rdfs:label>
+  <rdfs:label xml:lang="it">espressioniDerivate</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Expression" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;derivedExpressions">
-    <rdfs:label xml:lang="en">derivedExpressions</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Expression" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;editionHistory">
+  <rdfs:label xml:lang="en">editionHistory</rdfs:label>
+  <rdfs:label xml:lang="it">cronologiaEdizione</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Expression" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;editionHistory">
-    <rdfs:label xml:lang="en">editionHistory</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Expression" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;textualTypology">
+  <rdfs:label xml:lang="en">textualTypology</rdfs:label>
+  <rdfs:label xml:lang="it">tipologiaTestuale</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Expression" />
+  <rdfs:domain rdf:resource="&biflow;TextualTypology" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;textualTypology">
-    <rdfs:label xml:lang="en">textualTypology</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Expression" />
-    <rdfs:domain rdf:resource="&biflow;TextualTypology" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;language">
+  <rdfs:label xml:lang="en">language</rdfs:label>
+  <rdfs:label xml:lang="it">lingua</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Expression" />
+  <rdfs:domain rdf:resource="&biflow;Language" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;language">
-    <rdfs:label xml:lang="en">language</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Expression" />
-    <rdfs:domain rdf:resource="&biflow;Language" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;localisations">
+  <rdfs:label xml:lang="en">localisations</rdfs:label>
+  <rdfs:label xml:lang="it">localizzazioni</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Expression" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;localisations">
-    <rdfs:label xml:lang="en">localisations</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Expression" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;expression">
+  <rdfs:label xml:lang="en">expression</rdfs:label>
+  <rdfs:label xml:lang="it">espressione</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;ExpressionAttribution" />
+  <rdfs:domain rdf:resource="&biflow;Localisation" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;expression">
-    <rdfs:label xml:lang="en">expression</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;ExpressionAttribution" />
-    <rdfs:domain rdf:resource="&biflow;Localisation" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;attribution">
+  <rdfs:label xml:lang="en">attribution</rdfs:label>
+  <rdfs:label xml:lang="it">attribuzione</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;ExpressionAttribution" />
+  <rdfs:domain rdf:resource="&biflow;WorkAttribution" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;attribution">
-    <rdfs:label xml:lang="en">attribution</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;ExpressionAttribution" />
-    <rdfs:domain rdf:resource="&biflow;WorkAttribution" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;genre">
+  <rdfs:label xml:lang="en">genre</rdfs:label>
+  <rdfs:label xml:lang="it">genere</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Genre" />
+  <rdfs:domain rdf:resource="&biflow;WorkGenre" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;genre">
-    <rdfs:label xml:lang="en">genre</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Genre" />
-    <rdfs:domain rdf:resource="&biflow;WorkGenre" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;expressions">
+  <rdfs:label xml:lang="en">expressions</rdfs:label>
+  <rdfs:label xml:lang="it">espressioni</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Language" />
+  <rdfs:domain rdf:resource="&biflow;TextualTypology" />
+  <rdfs:domain rdf:resource="&biflow;Work" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;expressions">
-    <rdfs:label xml:lang="en">expressions</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Language" />
-    <rdfs:domain rdf:resource="&biflow;TextualTypology" />
-    <rdfs:domain rdf:resource="&biflow;Work" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;city">
+  <rdfs:label xml:lang="en">city</rdfs:label>
+  <rdfs:label xml:lang="it">città</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Library" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;city">
-    <rdfs:label xml:lang="en">city</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Library" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;libraryName">
+  <rdfs:label xml:lang="en">libraryName</rdfs:label>
+  <rdfs:label xml:lang="it">nomeBiblioteca</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Library" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;libraryName">
-    <rdfs:label xml:lang="en">libraryName</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Library" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;libraryCode">
+  <rdfs:label xml:lang="en">libraryCode</rdfs:label>
+  <rdfs:label xml:lang="it">codiceBiblioteca</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Library" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;libraryCode">
-    <rdfs:label xml:lang="en">libraryCode</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Library" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;localisation">
+  <rdfs:label xml:lang="en">localisation</rdfs:label>
+  <rdfs:label xml:lang="it">localizzazione</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Localisation" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;localisation">
-    <rdfs:label xml:lang="en">localisation</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Localisation" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;manuscript">
+  <rdfs:label xml:lang="en">manuscript</rdfs:label>
+  <rdfs:label xml:lang="it">manoscritto</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Localisation" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;manuscript">
-    <rdfs:label xml:lang="en">manuscript</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Localisation" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;copyist">
+  <rdfs:label xml:lang="en">copyist</rdfs:label>
+  <rdfs:label xml:lang="it">copista</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Localisation" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;copyist">
-    <rdfs:label xml:lang="en">copyist</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Localisation" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;note">
+  <rdfs:label xml:lang="en">note</rdfs:label>
+  <rdfs:label xml:lang="it">nota</rdfs:label>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Localisation" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;note">
-    <rdfs:label xml:lang="en">note</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Localisation" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;library">
+  <rdfs:label xml:lang="en">The library whose the manuscript is preserved</rdfs:label>
+  <rdfs:comment>The name of the the library where the manuscript is preserved.</rdfs:comment>
+  <rdfs:label xml:lang="it">La biblioteca in cui il manoscritto è conservato</rdfs:label>
+  <rdfs:comment xml:lang="it">Il nome della biblioteca in cui è conservato il manoscritto.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+  <rdfs:range rdf:resource="&biflow;Library" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;library">
-    <rdfs:label xml:lang="en">The library whose the manuscript is preserved</rdfs:label>
-    <rdfs:comment>The name of the the library where the manuscript is preserved.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-    <rdfs:range rdf:resource="&biflow;Library" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;shelfMark">
+  <rdfs:label xml:lang="en">The identifier number of the manuscript</rdfs:label>
+  <rdfs:comment>A shelf-mark, or shelfmark, in a manuscript in a library is, specifically, a press-mark that denotes where is located</rdfs:comment>
+  <rdfs:label xml:lang="it">Il numero identificativo del manoscritto</rdfs:label>
+  <rdfs:comment xml:lang="it">Un segno di scaffale, o segno di scaffale, in un manoscritto in una biblioteca è specificamente un segno di pressa che indica la sua posizione</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;shelfMark">
-    <rdfs:label xml:lang="en">The identifier number of the manuscript</rdfs:label>
-    <rdfs:comment>A shelf-mark, or shelfmark, in a manuscript in a library is, specifically, a press-mark that denotes where is located</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;material">
+  <rdfs:label xml:lang="en">The material whose the manuscript is made</rdfs:label>
+  <rdfs:comment>The material whose the manuscript is made.</rdfs:comment>
+  <rdfs:label xml:lang="it">Il materiale di cui è fatto il manoscritto</rdfs:label>
+  <rdfs:comment xml:lang="it">Il materiale di cui è fatto il manoscritto.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+  <rdfs:domain rdf:resource="&biflow;Material" />
+  <rdfs:range rdf:resource="&biflow;Material" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;material">
-    <rdfs:label xml:lang="en">The material whose the manuscript is made</rdfs:label>
-    <rdfs:comment>The material whose the manuscript is made.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-    <rdfs:domain rdf:resource="&biflow;Material" />
-    <rdfs:range rdf:resource="&biflow;Material" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;physDescription">
+  <rdfs:label xml:lang="en">Further information about the physical description.</rdfs:label>
+  <rdfs:comment>Further information about the physical description.</rdfs:comment>
+  <rdfs:label xml:lang="it">Ulteriori informazioni sulla descrizione fisica.</rdfs:label>
+  <rdfs:comment xml:lang="it">Ulteriori informazioni sulla descrizione fisica.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;physDescription">
-    <rdfs:label xml:lang="en">Futher information about the physical description.</rdfs:label>
-    <rdfs:comment>Futher information about the physical description.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;history">
+  <rdfs:label xml:lang="en">Description of the history of the codex.</rdfs:label>
+  <rdfs:comment>Description of the history of the codex.</rdfs:comment>
+  <rdfs:label xml:lang="it">Descrizione della storia del codice.</rdfs:label>
+  <rdfs:comment xml:lang="it">Descrizione della storia del codice.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;history">
-    <rdfs:label xml:lang="en">Description of the history of the codex.</rdfs:label>
-    <rdfs:comment>Description of the history of the codex.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;width">
+  <rdfs:label xml:lang="en">The width of the manuscript.</rdfs:label>
+  <rdfs:comment>The width of the manuscript.</rdfs:comment>
+  <rdfs:label xml:lang="it">La larghezza del manoscritto.</rdfs:label>
+  <rdfs:comment xml:lang="it">La larghezza del manoscritto.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;width">
-    <rdfs:label xml:lang="en">The widht of the manuscript.</rdfs:label>
-    <rdfs:comment>The widht of the manuscript.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;height">
+  <rdfs:label xml:lang="en">The height of the manuscript.</rdfs:label>
+  <rdfs:comment>The height of the manuscript.</rdfs:comment>
+  <rdfs:label xml:lang="it">L'altezza del manoscritto.</rdfs:label>
+  <rdfs:comment xml:lang="it">L'altezza del manoscritto.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;height">
-    <rdfs:label xml:lang="en">The height of the manuscript.</rdfs:label>
-    <rdfs:comment>The height of the manuscript.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;scriptDescription">
+  <rdfs:label xml:lang="en">Information about the script.</rdfs:label>
+  <rdfs:comment>Information about the script.</rdfs:comment>
+  <rdfs:label xml:lang="it">Informazioni sullo script.</rdfs:label>
+  <rdfs:comment xml:lang="it">Informazioni sullo script.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;scriptDescription">
-    <rdfs:label xml:lang="en">Information about the script.</rdfs:label>
-    <rdfs:comment>Information about the script.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;decoDescription">
+  <rdfs:label xml:lang="en">Further information about the decoration description.</rdfs:label>
+  <rdfs:comment>Further information about the decoration description.</rdfs:comment>
+  <rdfs:label xml:lang="it">Ulteriori informazioni sulla descrizione della decorazione.</rdfs:label>
+  <rdfs:comment xml:lang="it">Ulteriori informazioni sulla descrizione della decorazione.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;decoDescription">
-    <rdfs:label xml:lang="en">Futher information about the decoration descrition.</rdfs:label>
-    <rdfs:comment>Futher information about the decoration descrition.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;collationDescription">
+  <rdfs:label xml:lang="en">Description of this manuscript collation.</rdfs:label>
+  <rdfs:comment>Description of this manuscript collation.</rdfs:comment>
+  <rdfs:label xml:lang="it">Descrizione di questa collazione di manoscritti.</rdfs:label>
+  <rdfs:comment xml:lang="it">Descrizione di questa collazione di manoscritti.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;collationDescription">
-    <rdfs:label xml:lang="en">Description of this manuscript collation.</rdfs:label>
-    <rdfs:comment>Description of this manuscript collation.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
+<rdf:Description rdf:about="&biflow;binding">
+  <rdfs:label xml:lang="en">Information about the binding description.</rdfs:label>
+  <rdfs:comment>Information about the binding description.</rdfs:comment>
+  <rdfs:label xml:lang="it">Informazioni sulla descrizione del rilegatura.</rdfs:label>
+  <rdfs:comment xml:lang="it">Informazioni sulla descrizione del rilegatura.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
-  <rdf:Description rdf:about="&biflow;binding">
-    <rdfs:label xml:lang="en">Information about the binding description.</rdfs:label>
-    <rdfs:comment>Information about the binding description.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;ruledLines">
-    <rdfs:label xml:lang="en">Information about the ruling description.</rdfs:label>
-    <rdfs:comment>Information about the ruling description.</rdfs:comment>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Manuscript" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;nickname">
-    <rdfs:label xml:lang="en">nickname</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Nickname" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;person">
-    <rdfs:label xml:lang="en">person</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Nickname" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;name">
-    <rdfs:label xml:lang="en">name</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;dateBirth">
-    <rdfs:label xml:lang="en">dateBirth</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;dateDeath">
-    <rdfs:label xml:lang="en">dateDeath</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;attributedWorks">
-    <rdfs:label xml:lang="en">attributedWorks</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;attributedExpressions">
-    <rdfs:label xml:lang="en">attributedExpressions</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;translations">
-    <rdfs:label xml:lang="en">translations</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;codices">
-    <rdfs:label xml:lang="en">codices</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;nicknames">
-    <rdfs:label xml:lang="en">nicknames</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Person" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;content">
-    <rdfs:label xml:lang="en">content</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Work" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;otherTranslations">
-    <rdfs:label xml:lang="en">otherTranslations</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Work" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;relatedWorks">
-    <rdfs:label xml:lang="en">relatedWorks</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Work" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;genres">
-    <rdfs:label xml:lang="en">genres</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Work" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;creationDate">
-    <rdfs:label xml:lang="en">creationDate</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;Work" />
-  </rdf:Description>
-
-  <rdf:Description rdf:about="&biflow;bibliography">
-    <rdfs:label xml:lang="en">bibliography</rdfs:label>
-    <rdfs:isDefinedBy rdf:resource="&biflow;" />
-    <rdf:type rdf:resource="&rdfs;Property" />
-    <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
-    <rdf:type rdf:resource="&owl;ObjectProperty" />
-    <rdfs:domain rdf:resource="&biflow;WorkBibliography" />
-  </rdf:Description>
-
-
+<rdf:Description rdf:about="&biflow;ruledLines">
+  <rdfs:label xml:lang="en">Information about the ruling description.</rdfs:label>
+  <rdfs:comment>Information about the ruling description.</rdfs:comment>
+  <rdfs:label xml:lang="it">Informazioni sulla descrizione delle linee guida.</rdfs:label>
+  <rdfs:comment xml:lang="it">Informazioni sulla descrizione delle linee guida.</rdfs:comment>
+  <rdfs:isDefinedBy rdf:resource="&biflow;" />
+  <rdf:type rdf:resource="&rdfs;Property" />
+  <rdf:type rdf:resource="&owl;InverseFunctionalProperty" />
+  <rdf:type rdf:resource="&owl;ObjectProperty" />
+  <rdfs:domain rdf:resource="&biflow;Manuscript" />
+</rdf:Description>
 
 </rdf:RDF>
